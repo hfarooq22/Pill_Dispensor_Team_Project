@@ -1,0 +1,2 @@
+Programmed an Arduino Uno based pill dispenser for the user to take their correct medications every day and on time.
+My role was to design and build the circuit which includes the dispensing mechanism and the alarm system.
